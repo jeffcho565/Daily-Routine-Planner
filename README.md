@@ -33,7 +33,9 @@ A desktop-accessible productivity application.
 - mobile app translation  (Samsung & Apple)
 - Build a desktop-ready app for easy access.
 - Tutorial
+  
 ## accessibility
+
 - light mode/dark mode
 - letter thickness
 - font
