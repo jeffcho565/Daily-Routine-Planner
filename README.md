@@ -34,7 +34,7 @@ A desktop-accessible productivity application.
 - Build a desktop-ready app for easy access.
 - Tutorial
   
-## accessibility
+## Accessibility
 
 - light mode/dark mode
 - letter thickness
