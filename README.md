@@ -23,11 +23,11 @@ A desktop-accessible productivity application.
 - Finance Tracker
 - Timer, Clock, Stopwatch
 
+- Workout Planner
+- water intake tracker
 - hear rate (apple watch api)
 - Calorie tracker (apple watch api)
 - Steps tracker(apple watch api)
-- Workout Planner
-- water intake tracker
 
 - Login/Register 
 - mobile app translation  (Samsung & Apple)
@@ -39,7 +39,6 @@ A desktop-accessible productivity application.
 - light mode/dark mode
 - letter thickness
 - font
-- 
 
 ---
 
