@@ -9,7 +9,7 @@ A desktop-accessible productivity application.
 - **Node.js**
 ---
 
-## plans
+## Plans
 - Create UI
 - Create Api Backend
 - Connect Frontend and Backend
