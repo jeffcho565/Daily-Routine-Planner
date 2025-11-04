@@ -9,7 +9,7 @@ A desktop-accessible productivity application.
 
 ---
 
-## ✅ plans
+## plans
 - Create UI
 - Create Api Backend
 - Connect Frontend and Backend
@@ -19,18 +19,32 @@ A desktop-accessible productivity application.
 ## ✅ Goals
 - Alerts/Reminders
 - To-Do List
+- Daily Routine Planner/Scheduler
+- Finance Tracker
 - Timer, Clock, Stopwatch
 
 - hear rate (apple watch api)
 - Calorie tracker (apple watch api)
 - Steps tracker(apple watch api)
 - Workout Planner
-- water intake
+- water intake tracker
 
-- 
-
+- Login/Register 
 - mobile app translation  (Samsung & Apple)
 - Build a desktop-ready app for easy access.
+- Tutorial
+## accessibility
+- light mode/dark mode
+- letter thickness
+- font
+- 
+
+---
+
+## Steps For UI:
+- Create Basic Frontend
+- Improve theme and general look of the Frontend
+- Front end Animations (smoothness)
 
 ---
 
