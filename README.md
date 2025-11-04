@@ -6,7 +6,7 @@ A desktop-accessible productivity application.
 
 ## 🛠 Tech Stack
 - **React**
-
+- **Node.js**
 ---
 
 ## plans
